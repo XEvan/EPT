@@ -1,0 +1,40 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "fota_ota/tg2",
+    "children" : [ {
+      "name" : "tg2/测试用例1",
+      "uid" : "dee18e3520ef2510",
+      "parentUid" : "396dd3d90e9969ea05aebe9c20ac9f3b",
+      "status" : "passed",
+      "time" : { },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "tg2/测试用例2",
+      "uid" : "74d6127a4a474eac",
+      "parentUid" : "396dd3d90e9969ea05aebe9c20ac9f3b",
+      "status" : "passed",
+      "time" : { },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "396dd3d90e9969ea05aebe9c20ac9f3b"
+  }, {
+    "name" : "fota_ota/tg1",
+    "children" : [ {
+      "name" : "tg1/测试用例1",
+      "uid" : "5c4c24bc671c1262",
+      "parentUid" : "685651e436b37f6fe3bbe404cffa3b3b",
+      "status" : "passed",
+      "time" : { },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "685651e436b37f6fe3bbe404cffa3b3b"
+  } ]
+}

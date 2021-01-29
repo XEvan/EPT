@@ -1,0 +1,19 @@
+[ {
+  "uid" : "dee18e3520ef2510",
+  "name" : "tg2/测试用例1",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74d6127a4a474eac",
+  "name" : "tg2/测试用例2",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c4c24bc671c1262",
+  "name" : "tg1/测试用例1",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

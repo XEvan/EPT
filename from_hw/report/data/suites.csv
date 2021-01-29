@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","","","fota_ota/tg2","","","","tg2/测试用例1",""
+"passed","","","","","fota_ota/tg2","","","","tg2/测试用例2",""
+"passed","","","","","fota_ota/tg1","","","","tg1/测试用例1",""
